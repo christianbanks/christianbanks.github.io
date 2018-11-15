@@ -1,0 +1,13 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-image: url("triangle.png");
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
