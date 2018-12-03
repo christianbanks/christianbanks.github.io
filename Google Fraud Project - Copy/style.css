@@ -1,0 +1,35 @@
+.google_box {
+    margin-top: 109px;
+    width: 334px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: white;
+}
+
+.col-12 {
+    height: 640px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
